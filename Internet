@@ -1,13 +1,9 @@
-{
-"SendMessage":10,"
-MyMessage":"Welcome K.A.S.T VPN Users Stay stuned for more updates... 
-
+{ 
+"latestVersion": "25.2.1", 
+"url": "https://dropmb.com/files/9ba09b26ce2fd1134f6ea793a6eb70e7.apk", 
+"releaseNotes": [ 
 "- Fix minor bugs", 
-
 "- UI optimaization", 
-
-"- Import translations"  
-
-"- Account Update No Available",
-"- 😃😘 "
+"- Import translations" 
+] 
 }
